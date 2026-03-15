@@ -5,7 +5,7 @@ This section focuses on converting Excel work into professional, print-ready rep
 Emphasis is placed on layout control, pagination, and presentation clarity.
 
 ---
-
+ 
 ## Skills & Concepts Covered
 
 ### Page Layout & Print Control
